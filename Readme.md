@@ -1,5 +1,6 @@
 ## Exercise_7-UiPath-Read-and-Extract-Text-from-PDF
-
+### NAME:SANJAY ASHWIN P 
+### REG NO:212223040181
 ## Aim:
 
 To automate the process of extracting text from a PDF file and saving the extracted content to a text file using UiPath.
